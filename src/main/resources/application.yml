@@ -1,0 +1,3 @@
+throttler:
+  maxCallPerSecond: 10
+  intervalInMinute: 1
